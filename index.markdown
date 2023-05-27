@@ -1,6 +1,10 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Welcome!
 ---
+
+Hello, welcome to my website!
+
+I am currently an undergraduate student in the [National University of Singapore](https://nus.edu.sg/).
+
+I am deeply passionate about research.

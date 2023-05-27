@@ -1,0 +1,12 @@
+toc:
+  - title: Education
+    url: "education"
+    subfolderitems:
+      - title: Undergraduate
+        url: "education/undergraduate"
+      - title: Masters
+        url: "education/masters"
+  - title: Research
+    url: "research"
+  - title: Publications
+    url: "publications"
