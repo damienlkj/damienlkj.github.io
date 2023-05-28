@@ -13,7 +13,7 @@ full-width: True
 &nbsp;
 <p style="text-align: center;"><b>Courses taken</b></p>
 
-<div class="tab-container">
+<div class="tab-container"> 
   <div class="bar">
     <button class="item button tablink selected" onclick="openTab(event, 'year', 'Year 1', 'tablink')">Year 1</button>
     <button class="item button tablink" onclick="openTab(event, 'year', 'Year 2', 'tablink')">Year 2</button>
