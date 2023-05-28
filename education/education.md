@@ -16,6 +16,11 @@ permalink: /education/
         <span class="button-text">Masters</span>
     </a>
 
+    <a href="/education/phd" class="square-button">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Question_Mark.svg" alt="Master" width="300" height="300">
+        <span class="button-text">PhD</span>
+    </a>
+
     </div>
 </div>
 

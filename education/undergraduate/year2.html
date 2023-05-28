@@ -1,0 +1,128 @@
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'Semester 3')">Semester 1</button>
+  <button class="tablinks" onclick="openTab(event, 'Semester 4')">Semester 2</button>
+  <button class="tablinks" onclick="openTab(event, 'Special Term / Others 2')">Special Term / Others</button>
+</div>
+
+<!-- Tab content -->
+<div id="Semester 3" class="tabcontent">
+  {% for course in site.data.modules.Sem3 %}
+    <details>
+      <summary>
+        <b>{{ course[0] }}: {{ course[1].title }}</b>
+        <p><b>Grade: {{ course[1].grade }}</b> &emsp; Credits: {{ course[1].credit }}</p>
+      </summary>
+      <p>{{ course[1].description }}</p>
+    </details>
+  {% endfor %}
+</div>
+
+<div id="Semester 4" class="tabcontent">
+  {% for course in site.data.modules.Sem4 %}
+    <details>
+      <summary>
+        <b>{{ course[0] }}: {{ course[1].title }}</b>
+        {% if course[0] == "EG2605" %}
+          <p><i>Research under Assistant Professor He Qian's group</i></p>
+        {% endif %}
+        <p><b>Grade: {{ course[1].grade }}</b> &emsp; Credits: {{ course[1].credit }}</p>
+      </summary>
+      <p>{{ course[1].description }}</p>
+    </details>
+  {% endfor %}
+</div>
+
+<div id="Special Term / Others 2" class="tabcontent">
+  {% for course in site.data.modules.year2st %}
+    <details>
+      <summary>
+        <b>{{ course[0] }}: {{ course[1].title }}</b>
+        {% if course[0] == "EG2701A" %}
+          <p><i>Research under Assistant Professor Pieremanuele Canepa's group</i></p>
+        {% endif %}
+        <p><b>Grade: {{ course[1].grade }}</b> &emsp; Credits: {{ course[1].credit }}</p>
+      </summary>
+      <p>{{ course[1].description }}</p>
+    </details>
+  {% endfor %}
+  <details>
+    <summary>
+      <b>IWC207: Statistics</b>
+      <p><i>Done in Korea University (Winter School)</i></p>
+      <p><b>Grade: CS</b> &emsp; Credits: 4 </p>
+    </summary>
+    <p>This course provides a broad introduction to statistical practice and data analysis techniques. It aims
+      to equip students with a basic understanding of statistics, so that they can employ appropriate
+      methods of analysis in various circumstances. The techniques learnt are widely used in the sciences,
+      social sciences, business and many other fields of study. Topics covered include collecting data,
+      getting information from data, data manipulation, statistical inference, regression and analysis of
+      categorical data.</p>
+  </details>
+
+</div>
+
+<style>
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+}
+
+.module .p{
+  padding-top:1px;
+  padding-bottom:1px;
+}
+</style> 
+
+<script>
+function openTab(evt, tabname) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(tabname).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+

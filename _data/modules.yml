@@ -1,0 +1,571 @@
+Sem1:
+    CN1101A:
+        credit: '4'
+        description: This  module provides an experiential   exposure   to chemical  engineering
+            concepts through  a  series  of hands-on experimental laboratories. Simple
+            yet visually engaging demonstrations  will  bring  these  concepts  to life,
+            and act as a preview and bridge to the core modules in the undergraduate curriculum,
+            while highlighting their practical relevance. The students will prepare for
+            each session   by compulsory   pre-laboratory readings   on theoretical  background  and  laboratory  procedures.  In
+            the laboratory, they will learn to carry out measurement, data  collection,  analysis,  modelling,
+            interpretation  and presentation.  The  laboratory  sessions  will  be  blended
+            with  real  engineering applications  of  industrial  and societal relevance
+            to Singapore.
+        title: Chemical Engineering Principles and Practice I
+        grade: A+
+    CN2101:
+        credit: '3'
+        description: This module provides students with basic concepts of material and
+            energy balances in chemical engineering processes. It also gives a comprehensive
+            introduction to different analytical and problem-solving methods. In particular,
+            steady state material and energy balances, including recycles, phase changes
+            and reactions, simultaneous material and energy balances and unsteady state
+            balances are covered in this module. All fundamental concepts are illustrated
+            by using relevant process examples. This module is targeted at level one engineering
+            or science students.
+        title: Material and Energy Balances
+        grade: A+
+    CN2121:
+        credit: '4'
+        description: This module provides students with an understanding of the basic
+            laws and concepts of thermodynamics for applying to analyze chemical engineering
+            problems. The basic definition, applications and limitations of chemical engineering
+            thermodynamics are first introduced followed by a review of basic laws, properties
+            and concepts of thermodynamics. The application of basic concepts of energy
+            conversion is extended to refrigeration and liquefaction processes. The development
+            and discussion of thermodynamic property relations for systems of constant
+            and variable compositions are covered in detail. The developed property relationships
+            together with the basic laws are then applied to the analysis of the various
+            equilibrium problems in chemical engineering such as vapour-liquid, vapour-liquid-liquid,
+            liquid-liquid, solid-liquid and chemical reaction equilibria. This module
+            is targeted at level 2 chemical engineering students.
+        title: Chemical Engineering Thermodynamics
+        grade: A+
+    GER1000:
+        credit: '4'
+        description: This module aims to equip undergraduates with basic reasoning skills
+            on using data to address real world issues. What are some potential complications
+            to keep in mind as we plan what data to collect and how to use them to address
+            our particular issue? When two things are related (e.g. smoking and cancer),
+            how can we tell whether the relationship is causal (e.g. smoking causes cancer)?
+            How can quantitative reasoning help us deal with uncertainty or elucidate
+            complex relationships? These and other questions will be discussed using real
+            world examples.
+        title: Quantitative Reasoning
+        grade: A-
+    MA1511:
+        credit: '2'
+        description: 'This is a seven-week module specially designed for students majoring
+            in Engineering. It introduces the basic concepts in one variable and several
+            variable calculus with applications in engineering. Main topics: One variable
+            calculus. Power series. Partial differentiation. Multiple integrals. Vector
+            Calculus.'
+        title: Engineering Calculus
+        grade: A
+    MA1512:
+        credit: '2'
+        description: 'This is a seven-week module specially designed for students majoring
+            in Engineering. It introduces the basic concepts in differential equations
+            with applications in engineering. Major topics: First order ordinary differential
+            equations and applications. Second order ordinary differential equations and
+            applications. Partial differential equations and applications. Laplace transforms
+            and applications.'
+        title: Differential Equations for Engineering
+        grade: A
+    UTC1702E:
+        credit: '4'
+        description: "Are energy sources infinite? Do energy policies lead to a sustainable\
+            \ energy development? Would renewables solve our future energy needs, mitigate\
+            \ emissions and protect our environment? Students deal with such energy challenges\
+            \ by learning to understand energy systems\
+            \ as a complex whole. This module provides\
+            \ a platform for students to understand the complex behavior arising from\
+            \ interdependent interactions of different actors of energy systems with other\
+            \ economic, political, social, technological and environmental factors. To\
+            \ achieve this, it engages students to learn and apply systems thinking tools\
+            \ to such aforementioned challenges through relevant models, case studies\
+            \ and real-world energy policy/problem scenarios."
+        title: 'Thinking in Systems: Energy Systems'
+        grade: CS
+    UTW1001E:
+        credit: '4'
+        description: This writing course considers the eternal question of what it is
+            to be human in relation to the possibilities of transforming ourselves through
+            genetic, neuro-cognitive or cybernetic technologies. How significantly would
+            individuals, populations or the entire species have to be changed to warrant
+            use of the term posthuman in describing them? How desirable would it be to
+            transcend certain of our current limitations or to acquire wholly new capabilities?  In
+            small interactive classes, students will explore these questions through critical
+            examination of viewpoints expressed in both scholarly literature and imaginative
+            media, ultimately developing their own positions in written arguments.
+        title: From Human to 'Posthuman'
+        grade: A-
+Sem2:
+    CN2102:
+        credit: '4'
+        description: This module is the second part of a two-part module designed to provide
+            first year Chemical and Biomolecular Engineering students with an experiential
+            exposure to the foundational concepts of Biomolecular/Biochemical/Bioprocess
+            Engineering, including mass and energy balances, biosafety and sterile handling,
+            bioreaction kinetics, bioreactor design, downstream processing and purification,
+            etc., through a series of hands-on experimental laboratories. In the laboratory,
+            they will learn to carry out measurement, data collection, analysis, interpretation
+            and presentation. The laboratory sessions will be blended with real engineering
+            applications of industrial and societal relevance to Singapore.
+        title: Chemical Engineering Principles and Practice II
+        grade: A+
+    CN2116:
+        credit: '4'
+        description: The module begins with a revision of chemical kinetics and thermodynamics
+            emphasizing on the different definitions of reaction rates, rate expressions,
+            and simple and complex reactions. The design equations for ideal reactors
+            are then introduced followed by the general methods of analysis of rate data.
+            Reactor sequencing, yield versus productivity considerations in multiple reactions,
+            and nonisothermal operations round up the first half of the course. More advanced
+            topics such as residence time distributions in reactors, kinetics of catalytic
+            reactions and catalyst deactivation, coupling of chemical reactions with transport
+            processes, form the bulk of the second half of the course.
+        title: Chemical Kinetics & Reactor Design
+        grade: A+
+    CN2122A:
+        credit: '4'
+        description: "This module considers the classification of fluids and their properties,\
+            \ followed by the analysis of static fluid. The integral and differential\
+            \ forms of the fundamental equations - Continuity, Momentum\
+            \ and Energy equations are then studied. The concept of momentum transfer\
+            \ by the shear stress is introduced in this course. Dimensional analysis and\
+            \ model theory are studied. The concept about boundary layer theory, flow\
+            \ with pressure gradient, viscous flow and turbulence are also described.\
+            \ Practical aspect involves the consideration of flows in closed conduits.\
+            \ At the end of the course, basic concepts regarding fluid machinery is also\
+            \ covered."
+        title: Fluid Mechanics
+        grade: A+
+    CN2125:
+        credit: '4'
+        description: This course considers three modes of heat transfer, namely, conduction,
+            convection, and radiation.  For heat conduction, both steady and unsteady
+            states are examined. These are followed by analyses for convective heat transfer
+            and heat transfer with phase change, and subsequently radiative heat transfer.
+            Heat exchangers and their design are discussed. Steady and unsteady-state
+            molecular diffusion is studied, while convective mass transfer is analyzed
+            using exact and approximate integral analysis. Finally, analogies between
+            mass, heat and momentum transfer are discussed leading to the concept of transport
+            phenomena.
+        title: Heat & Mass Transfer
+        grade: A+
+    CS1010E:
+        credit: '4'
+        description: This module introduces the fundamental concepts of problem solving by computing and programming using an imperative programming language. It is the first and foremost introductory course to computing. Topics covered include computational thinking and computational problem solving, designing and specifying an algorithm, basic problem formulation and problem solving approaches, program development, coding, testing and debugging, fundamental programming constructs (variables, types, expressions, assignments, functions, control structures, etc.), fundamental data structures (arrays, strings, composite data types), basic sorting, and recursion.
+        title: Programming Methodology
+        grade: A+
+    MA1513:
+        credit: '2'
+        description: 'This is a six-week module specially designed for students majoring
+            in Engineering. It introduces the basic concepts in linear algebra with applications
+            in engineering. Major topics: Matrix algebra, linear system of equations,
+            vector spaces, linear independence, basis, orthogonality, rank, linear transformations,
+            eigenvalues and eigenvectors, diagonalization, linear systems of differential
+            equations, linearization of nonlinear systems.'
+        title: Linear Algebra with Differential Equations
+        grade: A+
+    MLE1010:
+        credit: '4'
+        description: Students will be introduced to the mechanical and electrical properties
+            of the main classes of materials, metals, polymers, ceramics, composites and
+            semiconductors followed by techniques used to select suitable materials for
+            future design projects. The module will cover the correlation between these
+            fundamental materials properties and both chemical composition and microstructure,
+            including the impact of the fabrication process.
+        title: Materials Engineering Principles & Practices
+        grade: A+
+    UTC2716:
+        credit: '4'
+        description: A complex system entails a network of interconnections among its
+            constituents. Take the network of friendships in a society. "Six degrees of
+            separation" posits that any two persons in the world are connected through
+            five or fewer other persons in this network. This amazing "small world" notion
+            prompted scientists to study the organisational structure of networks. Indeed,
+            many networks - however massive and complex - follow an order based on simple
+            principles. In a minimally technical manner, this module follows this exciting
+            development, which impacts our understanding of a plethora of phenomena from
+            the spread of diseases to the propagation of opinions.
+        title: 'Networks: Complexity and Order'
+        grade: S
+Sem4:
+    CN3101A:
+        credit: '4'
+        description: Students will learn how to perform laboratory-scale experiments in
+            a small team. This practical module strengthens their technical writing and
+            oral presentation, and problem-solving skills. Experiments in this module
+            are related to chemical engineering thermodynamics, fluid mechanics, heat
+            and mass transfer, reaction engineering, process dynamics and control, mass
+            transfer and separation processes. Moreover, students will learn how to use
+            safety equipment to handle hazardous waste following safety protocols. They
+            will also learn assembly/disassembly of equipment, fault diagnosis, operation
+            of thermocouples and flow meters, instrumental analysis, data logging and
+            processing, operation of process plant items, error analysis and data validation.
+        title: Chemical Engineering Process Lab
+        grade: A-
+    CN3121:
+        credit: '4'
+        description: This module presents the full complement of fundamental principles
+            with clear application to heat exchangers, reactors, separation processes
+            and storage systems. It incorporates introductory concepts, dynamic modeling,
+            feedback control concepts and design methods, control hardware, and advanced
+            control strategies including feed-forward, cascade and model-based control.
+            SIMULINK will be introduced and used to simulate and examine the effectiveness
+            of various control strategies. The module also incorporates case studies that
+            prepare the students to design control systems for a realistic sized plant.
+            This module is targeted at chemical engineering students who already have
+            a basic knowledge of chemical engineering processes.
+        title: Process Dynamics & Control
+        grade: A+
+    CN3421A:
+        credit: '3'
+        description: This module introduces model formulation and MATLAB programming specially
+            for chemical engineering students. This course covers the formulation of process
+            models and necessary numerical techniques for solving the model equations
+            arising in thermodynamics, fluid mechanics, heat and mass transfer, reaction
+            engineering, transport phenomena, and process systems engineering. The numerical
+            techniques include methods for solving systems of linear and non-linear algebraic
+            equations and systems of linear and non-linear ordinary and partial differential
+            equations. Direct and iterative techniques, numerical differentiation and
+            integration, linear regression, error propagation, convergence and stability
+            analysis will also be taught in the context of chemical engineering problems.
+            Students will learn using various tools (Excel spreadsheet and MATLAB) for
+            solving different numerical problems. This module is targeted at level 3 chemical
+            and environmental engineering students.
+        title: Process Modeling And Numerical Simulation
+        grade: A
+    CN4122:
+        credit: '3'
+        description: This module aims to provide fundamentals and methods of of process
+            synthesis and simulation, which are required for design of chemical processes/plants.
+            Students learn a heuristic method for process development, simulation strategies,
+            main steps in process design and rigorous process simulation using a commercial
+            simulator through both lectures and many hands-on exercises. They will also
+            learn detailed mechanical design of process equipment, cost estimation and
+            profitability analysis of chemical processes.
+        title: Process Synthesis and Simulation
+        grade: A+
+    CN4223R:
+        credit: '4'
+        description: "This module provides students with a working knowledge of thin film\
+            \ technology as this is applicable in the microelectronics industry. The emphasis\
+            \ is on the role of chemical and engineering science in materials processing.\
+            \ The module commences with an introduction to basic concepts in the kinetic\
+            \ theory of gases, thin film formation, vacuum technology and surface preparation.\
+            \ The next section covers a variety of thin film deposition techniques - physical as well as chemical. Thin film processing and patterning\
+            \ is the next subject of discussion. In particular, process operations relevant\
+            \ to semi-conductor device manufacture are covered. Diagnostics and characterisation\
+            \ of thin films is also presented with a view to familiarise students in state-of-the-art\
+            \ methodologies. The last part is devoted to an intensive study of thin film\
+            \ phenomena from a materials perspective. This module is targeted at level\
+            \ 4 chemical engineering students."
+        title: Microelectronic Thin Films
+        grade: A
+    CN5432:
+        credit: '4'
+        description: The recent decade has witnessed the rapid development of porous materials
+            and their applications in clean energy and environmental sustainability including
+            storage, separation, sensing, and catalysis. This module covers the chemistry,
+            structure, characterization, and applications of various porous materials
+            including zeolites, inorganic mesoporous materials, metal-organic frameworks
+            (MOFs), covalent organic frameworks (COFs), and other newlyemerged porous
+            materials. It is a multidisciplinary course integrating chemistry, materials
+            science, and chemical engineering with a focus on addressing some of the most
+            challenging problems such as hydrogen storage, carbon capture, and CO2 utilization.
+        title: Fundamentals and Applications of Porous Materials
+        grade: A
+    EG2605:
+        credit: '4'
+        description: ''
+        title: Undergraduate Research Opportunities Programme
+        grade: CS
+    MLE2105:
+        credit: '4'
+        description: 'Drude model of metal conduction; basic quantum mechanics; wave equations;
+            quantum confinement; Bloch theory and periodic potential in solid; energy
+            band structure; effective mass; Fermi Dirac statistics; Sommerfeld model of
+            metallic conduction; semiconduct or: intrinsic, extrinsic, doping and conductivity;
+            Boltzmann statistics;  energy band structure; pn junction; selected examples
+            of current devices and applications'
+        title: Electronic Properties of Materials
+        grade: A+
+Sem3:    
+    CN3124A:
+        credit: '4'
+        description: This module introduces various multiphase processes that are important
+            to Chemical Engineering applications. These include sedimentation, flow through
+            packed beds, filtration, fluidisation, pneumatic transport and cyclone separation.
+            The concepts of single particle terminal velocity and hindered settling velocity
+            in multiple particle systems are introduced and applied to engineering designs
+            of continuous settling systems. Principles of flow through packed beds are
+            discussed and applied towards engineering designs of filtration and fluidized
+            bed systems. Pressure drop calculations for pneumatic transport systems and
+            engineering design calculations for gas cyclone systems are discussed. The
+            module concludes with the study of crystallisation, colloids and nanoparticles.
+        title: Fluid-Particle Systems
+        grade: A+
+    CN3132:
+        credit: '4'
+        description: In this module, equilibrium stage and rate-based design concepts
+            in separation processes are introduced. Starting from simple single stage,
+            binary separation, the theoretical treatment is extended to multi-component,
+            multi-stage processes. After brief introduction to inter-phase mass transfer,
+            basic concepts in rate-based design for the more important separation processes
+            such as absorption and distillation are illustrated. The rate-based design
+            concept is then extended to operations involving simultaneous heat and mass
+            transfer such as in cooling tower and dryer.  The process design principles
+            are illustrated with distillation, absorption, extraction, adsorption, cooling
+            tower and drying processes.
+        title: Separation Processes
+        grade: A+
+    CN3135:
+        credit: '3'
+        description: This module aims to provide fundamental concepts and methods for
+            the design and operation of safe plants. The students will gain a thorough
+            understanding of chemical process hazards, their identification, their potential
+            effects on safety, health, and the environment, and methods of assessment
+            and control. Emphasis is placed on the integrated management of safety, health,
+            and environmental sustainability.
+        title: Process Safety, Health and Environment
+        grade: A
+    CN5216:
+        credit: '4'
+        description: Electronic materials have become essential for modern society, and
+            new breakthroughs in electronic materials promise to offer next generation
+            technologies. This course explores the fundamental mechanisms for understanding
+            existing and emerging electronic materials for green energy devices in the
+            modern world. This survey course will enable students to learn the fundamental
+            properties in order to understand the operation and development of materials
+            for applications such as organic electronics, hybrid semiconductors, photovoltaics,
+            photocatalysts, and optoelectronic devices. This course is also intended to
+            introduce contemporary research to students through discussion and analysis
+            of research manuscripts as case studies.
+        title: Electronic Materials and Energy Technologies
+        grade: A+
+    CS1231:
+        credit: '4'
+        description: 'This module introduces mathematical tools required in the study
+            of computer science. Topics include: (1) Logic and proof techniques: propositions,
+            conditionals, quantifications.  (2) Relations and Functions: Equivalence relations
+            and partitions.  Partially ordered sets.  Well-Ordering Principle. Function
+            equality.  Boolean/identity/inverse functions.  Bijection. (3) Mathematical
+            formulation of data models (linear model, trees, graphs). (4) Counting and
+            Combinatoric: Pigeonhole Principle. Inclusion-Exclusion Principle.  Number
+            of relations on a set, number of injections from one finite set to another,
+            Diagonalisation proof: An infinite countable set has an uncountable power
+            set; Algorithmic proof: An infinite set has a countably infinite subset.  Subsets
+            of countable sets are countable.'
+        title: Discrete Structures
+        grade: A
+    EE2211:
+        credit: '4'
+        description: This module introduces students to various machine learning concepts
+            and applications, and the mathematical tools needed to understand them. Topics
+            include supervised and unsupervised machine learning techniques, optimization,
+            overfitting, regularization, crossvalidation and evaluation metrics. The mathematical
+            tools include basic topics in probability and statistics, linear algebra,
+            and optimization. These concepts will be illustrated through various machine
+            learning techniques and examples, such as forecasting population growth, classifying
+            E-mail as spam or non-spam and predicting heart disease.
+        title: Introduction to Machine Learning
+        grade: A+
+    EG2101:
+        credit: '2'
+        description: "Recognizing that each professional leadership journey to comprises\
+            \ an individual's internalised learning and experiences, this\
+            \ module provides a platform for students to explore different means and take\
+            \ active steps towards honing their professional and leadership skills based\
+            \ on their needs and experiences.  Students will meet with mentors to discuss\
+            \ talks, lectures, workshops and other initiatives that can help them in their\
+            \ professional journey and be guided in reflecting on this journey for deeper\
+            \ impact. Despite the individual nature of each leadership journey, ethical\
+            \ values are recognized as indispensable for every engineering professional\
+            \ and will be part of this module."
+        title: Pathways to Engineering Leadership
+        grade: CS
+    MLE2101:
+        credit: '4'
+        description: 'Overview: symmetry, bonding, coordination number, packing fraction,
+            order and disorder; Noncrystalline state: short-range order (SRO), pair distribution
+            function, random walk, network and fractal models; Crystalline state: basic
+            crystallography and structures, reciprocal lattice, quasicrystals, liquid
+            crystalline state; Crystal vibrations, Brillouin zone; free electron model,
+            energy bands; Structural effects on phase transformation; Fourier series.'
+        title: Introduction to Structure of Materials
+        grade: A+
+    UTW2001E:
+        credit: '4'
+        description: Venturing into space, the most hostile of extreme environments, poses
+            a host of complex and unusual challenges to human well-being.  Through examination
+            of the physiological, psychological and social factors that astronauts must
+            contend with, students will engage with the ethical questions that confront
+            governmental and private agencies when sending men and women into space. Before
+            selecting specific ethical questions to explore in their research papers,
+            students will also examine  the motivations (scientific, commercial, political)
+            behind different kinds of space mission and consider the moral obligations
+            humankind may be under with regard to the exploration and potential exploitation
+            of extraterrestrial environments.
+        title: Ethics in Outer Space
+        grade: S
+Sem6:
+    CN4118:
+        credit: '8'
+        description: The project aims to provide students with training for scientific
+            or technical research. The module involves an assignment of a research project,
+            equipment training and safety education. Students need to spend at least one
+            full day per week on the project under the guidance of the project supervisor
+            and co-supervisor. A thesis is required at the end of the semester, including
+            literature survey, materials and method, results and discussion, and suggestions
+            for further study. A poster presentation is also required. This module is
+            targeted at all level 4 chemical engineering students.
+        title: B.Eng. Dissertation
+        grade: A
+    CN4123R:
+        credit: '6'
+        description: In this capstone design project, students execute a group project
+            to design a chemical production facility. They solve a practical design problem
+            in the same way as might be expected in an industrial situation. Students
+            develop and evaluate process flowsheet alternatives via rigorous simulation,
+            perform preliminary sizing, analyze safety and hazards, and estimate costs
+            and profitability. Further, they learn how to solve open-ended problems by
+            making critical design decisions with sound scientific justification and giving
+            due consideration to cost and safety. Project coordinators act as facilitators,
+            and students work almost independently on the project and exercise their creativity.
+        title: Final Year Design Project
+        grade: A
+    MLE4207:
+        credit: '4'
+        description: The module presents an overview of CMOS fabrication process with
+            the focus on the materials engineering and the physics behind the technologies
+            used in the fabrication process.  The technologies include cleaning process,
+            photolithography and resist, the formation of thermal oxides and Si/SiO2 interface,
+            dopant diffusion and ion implantation, etching, thin film deposition technology,
+            and interconnects/contacts.
+        title: Microfabrication Process and Technology
+        grade: A
+    MLE5215:
+        credit: '4'
+        description: 'The module equips students interested in computational chemistry
+            and materials science materials with: 1. Foundation of force-field and interatomic
+            potentials 2. Foundation of first principles methodologies 3. Foundation of
+            the methodologies aforementioned when applied in molecular dynamics and Monte
+            Carlo studied. 4. Hands-on application of computational techniques to chemical
+            and materials science problems.'
+        title: Atomistic Modelling of Molecules and Materials
+        grade: A
+Sem5:    
+    CN4205R:
+        credit: '4'
+        description: This module provides students with a working knowledge of selected
+            techniques and software in pinch analysis and process integration as well
+            as their application to chemical processes. The first part of the module covers
+            pinch analysis for heat integration, including data extraction and energy
+            targeting, heat exchanger network design, integration of utilities, heat and
+            power systems, and distillation columns. Application of pinch analysis to
+            maximization of water re-use is also discussed. Another topic is data reconciliation
+            and gross error detection, and their applications. This module is targeted
+            at senior chemical engineering students.
+        title: Pinch Analysis and Process Integration
+        grade: A+
+    CN5190:
+        credit: '4'
+        description: This module gives a comprehensive overview of the fundamental knowledge
+            of hydrogen, and introduction to the development of hydrogen technologies,
+            including hydrogen production, storage and transportation, hydrogen utilization
+            in industry, and as a clean fuel. Opinions and perspectives on future hydrogen
+            economy will also be introduced. Students will learn various types of hydrogen
+            related research and technologies, their significance, advantages, challenges
+            and opportunities ahead. Guest lectures from academic and industrial experts,
+            literatures from key areas will also be introduced to reinforce classroom
+            learning. This module is meant for students with some chemical engineering,
+            chemistry, materials science, or related background.
+        title: Hydrogen Energy and Technology
+        grade: A-
+    EG3611A:
+        credit: '10'
+        description: This internship module is for B.Eng. degree with a compulsory 20-week
+            internship. The type of internship varies according to the programmes. Internships
+            integrate knowledge and theory learned in the classroom with practical application
+            and skill development in a professional setting. It enables students to learn
+            about the latest developments in the industries and to interact with engineers
+            and other professionals as they join projects or tasks that help to develop
+            or enhance their skills whilst contributing to the organization. Students
+            can extend their internship module by another 4 weeks and earn additional
+            2 MC by registering EG3611b Industrial Attachment.
+        title: Industrial Attachment
+        grade: CS
+year1st:
+    EG1311:
+        credit: '4'
+        description: This module covers the fundamentals of engineering design and prototyping.
+            Students will learn design principles and tools through lectures and engage
+            in experiential learning through group design projects. A stage-based design
+            process will be covered. Students will develop their skills in eliciting user
+            needs, ideating solutions, and making prototypes to demonstrate their ideas.
+        title: Design and Make    
+        grade: CS
+    CS2030:
+        credit: '4'
+        description: This module is a follow up to CS1010. It explores two modern programming
+            paradigms, object-oriented programming and functional programming. Through
+            a series of integrated assignments, students will learn to develop medium-scale
+            software programs in the order of thousands of lines of code and tens of classes
+            using objectoriented design principles and advanced programming constructs
+            available in the two paradigms. Topics include objects and classes, composition,
+            association, inheritance, interface, polymorphism, abstract classes, dynamic
+            binding, lambda expression, effect-free programming, first class functions,
+            closures, continuations, monad, etc.
+        title: Programming Methodology II
+        grade: A
+    CS2040:
+        credit: '4'
+        description: This module introduces students to the design and implementation
+            of fundamental data structures and algorithms. The module covers basic data
+            structures (linked lists, stacks, queues, hash tables, binary heaps, trees,
+            and graphs), searching and sorting algorithms, and basic analysis of algorithms.
+        title: Data Structures and Algorithms
+        grade: A-
+    UTS2711:
+        credit: '4'
+        description: "This module takes a social systems approach underpinned by interdisciplinarity\
+            \ to survey the connections and linkages of policymaking and governance vis-\xC3\
+            \_-vis religious actors in Singapore. Balancing between theory and application,\
+            \ and between historical narrative and focus on the contemporary, this module\
+            \ interrogates a wide and complex array of religious-related factors which\
+            \ may influence the government in its policymaking process and the implementation\
+            \ of public policy, secularism in Singapore notwithstanding. This module also\
+            \ investigates how the myriad of religious factors can effect social change\
+            \ and determine the direction of the policies of the government vis-\xC3\_\
+            -vis politico-economic and socio-cultural issues in Singapore."
+        title: Religion, Governance and Policymaking in Singapore
+        grade: S
+year2st:    
+    EG2701A:
+        credit: '8'
+        description: This is the first of a series of two 2-semesters long modules intended
+            to allow students to pursue a project of their interest under the supervision
+            of a faculty mentor. The idea is to allow students to follow their aspirations
+            and work towards an impactful goal. The project may be carried out within
+            or outside NUS and may last more than one semester. It may or may not be confined
+            to engineering disciplines, but it should have a clear articulation of possible
+            impact on society or community life. This module can only be read by students
+            of the EScholars Programme.
+        title: Aspirational Project I
+        grade: CS
+    CS3244:
+        credit: '4'
+        description: This module introduces basic concepts and algorithms in machine learning
+            and neural networks. The main reason for studying computational learning is
+            to make better use of powerful computers to learn knowledge (or regularities)
+            from the raw data. The ultimate objective is to build self-learning systems
+            to relieve human from some of already-too-many programming tasks. At the end
+            of the course, students are expected to be familiar with the theories and
+            paradigms of computational learning, and capable of implementing basic learning
+            systems.
+        title: Machine Learning
+        grade: A-
+

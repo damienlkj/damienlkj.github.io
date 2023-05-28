@@ -44,5 +44,15 @@
 </nav>
 
 <style>
-  .dropdown:hover .dropdown-menu {display: block;}
+  .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+
+  .navbar-nav .nav-item.dropdown .dropdown-menu {
+    min-width: 170px;
+  }
+
+  .navbar-nav .nav-item.dropdown .dropdown-menu .dropdown-item {
+    width: 100%;
+  }
 </style>

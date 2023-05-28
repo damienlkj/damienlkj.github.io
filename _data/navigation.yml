@@ -3,10 +3,19 @@ toc:
     url: "education"
     subfolderitems:
       - title: Undergraduate
-        url: "education/undergraduate"
+        url: "education/undergraduate/"
+        subsubfolderitems:
+          - title: Year 1
+            url: "education/undergraduate/year1"
+          - title: Year 2
+            url: "education/undergraduate/year2"
+          - title: Year 3
+            url: "education/undergraduate/year3"
       - title: Masters
         url: "education/masters"
   - title: Research
     url: "research"
   - title: Publications
     url: "publications"
+  - title: Certifications
+    url: "certifications"
