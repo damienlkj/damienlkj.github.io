@@ -33,6 +33,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
 
+gem 'jekyll-tabs', '~> 1.1'
+
 group :jekyll_plugins do
   # ... other gems
   gem "jekyll-tabs"

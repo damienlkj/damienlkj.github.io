@@ -12,6 +12,7 @@ full-width: True
 <h4 style="text-align: center;"> GPA/CAP: 4.90/5.00 &emsp; &emsp; Total credits: 200</h4>  
 &nbsp;
 <p style="text-align: center;"><b>Courses taken</b></p>
+
 {% tabs log %}
 {% tab log Year 1 %}
 {% include_relative undergraduate/year1.html %}
