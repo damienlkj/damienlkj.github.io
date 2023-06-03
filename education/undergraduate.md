@@ -9,24 +9,24 @@ full-width: True
 <h2 style="text-align: center;"> Bachelor of Engineering (Chemical Engineering)</h2>
 <h3 style="text-align: center;"> Minor in Computer Science</h3>
 <h3 style="text-align: center;"> Minor in Engineering Materials</h3>  
-<h4 style="text-align: center;"> GPA/CAP: 4.90/5.00 &emsp; &emsp; Total credits: 200</h4>  
+<h4 style="text-align: center;"> <b>GPA/CAP:</b> 4.87/5.00 &emsp; &emsp; <b>Grade Breakdown:</b> 21A+/9A/8A- &emsp; &emsp; <b>Total credits:</b> 200/160</h4>  
 &nbsp;
 <p style="text-align: center;"><b>Courses taken</b></p>
 
 <div class="tab-container"> 
   <div class="bar">
-    <button class="item button tablink selected" onclick="openTab(event, 'year', 'Year 1', 'tablink')">Year 1</button>
-    <button class="item button tablink" onclick="openTab(event, 'year', 'Year 2', 'tablink')">Year 2</button>
-    <button class="item button tablink" onclick="openTab(event, 'year', 'Year 3', 'tablink')">Year 3</button>
+    <button class="button selected" onclick="openTab(event, 'year', 'Year 1')">Year 1</button>
+    <button class="button" onclick="openTab(event, 'year', 'Year 2')">Year 2</button>
+    <button class="button" onclick="openTab(event, 'year', 'Year 3')">Year 3</button>
   </div>
 
-  <div id="Year 1" class="tab-container  year">
+  <div id="Year 1" class="tab-container year">
     <div class="bar">
-      <button class="item button tablink2 selected" onclick="openTab(event, 'child', 'sem1', 'tablink2')">Semester 1</button>
-      <button class="item button tablink2" onclick="openTab(event, 'child', 'sem2', 'tablink2')">Semester 2</button>
-      <button class="item button tablink2" onclick="openTab(event, 'child', 'st1', 'tablink2')">Special Term / Others</button>
+      <button class="button selected" onclick="openTab(event, 'child', 'sem1')">Semester 1</button>
+      <button class="button" onclick="openTab(event, 'child', 'sem2')">Semester 2</button>
+      <button class="button" onclick="openTab(event, 'child', 'st1')">Special Term / Others</button>
     </div>
-    <div id="sem1" class="tab-container  child">
+    <div id="sem1" class="tab-container child">
         {% for course in site.data.modules.Sem1 %}
             <details>
             <summary>
@@ -37,7 +37,7 @@ full-width: True
             </details>
         {% endfor %}
     </div>
-    <div id="sem2" class="tab-container  child" style="display:none">
+    <div id="sem2" class="tab-container child" style="display:none">
         {% for course in site.data.modules.Sem2 %}
             <details>
             <summary>
@@ -48,7 +48,7 @@ full-width: True
             </details>
         {% endfor %}
     </div>
-    <div id="st1" class="tab-container  child" style="display:none">
+    <div id="st1" class="tab-container child" style="display:none">
         {% for course in site.data.modules.year1st %}
             <details>
             <summary>
@@ -82,13 +82,13 @@ full-width: True
 
   </div>
 
-  <div id="Year 2" class="tab-container  year" style="display:none">
+  <div id="Year 2" class="tab-container year" style="display:none">
     <div class="bar">
-      <button class="item button tablink2 selected" onclick="openTab(event, 'child', 'sem3', 'tablink2')">Semester 1</button>
-      <button class="item button tablink2" onclick="openTab(event, 'child', 'sem4', 'tablink2')">Semester 2</button>
-      <button class="item button tablink2" onclick="openTab(event, 'child', 'st2', 'tablink2')">Special Term / Others</button>
+      <button class="button selected" onclick="openTab(event, 'child', 'sem3')">Semester 1</button>
+      <button class="button" onclick="openTab(event, 'child', 'sem4')">Semester 2</button>
+      <button class="button" onclick="openTab(event, 'child', 'st2')">Special Term / Others</button>
     </div>
-    <div id="sem3" class="tab-container  child" style="display:none">
+    <div id="sem3" class="tab-container child">
         {% for course in site.data.modules.Sem3 %}
             <details>
             <summary>
@@ -99,7 +99,7 @@ full-width: True
             </details>
         {% endfor %}
     </div>
-    <div id="sem4" class="tab-container  child" style="display:none">
+    <div id="sem4" class="tab-container child" style="display:none">
         {% for course in site.data.modules.Sem4 %}
             <details>
             <summary>
@@ -113,7 +113,7 @@ full-width: True
             </details>
         {% endfor %}
     </div>
-    <div id="st2" class="tab-container  child" style="display:none">
+    <div id="st2" class="tab-container child" style="display:none">
         {% for course in site.data.modules.year2st %}
             <details>
             <summary>
@@ -138,12 +138,12 @@ full-width: True
 
   </div>
 
-  <div id="Year 3" class="tab-container  year" style="display:none">
+  <div id="Year 3" class="tab-container year" style="display:none">
     <div class="bar">
-      <button class="item button tablink2 selected" onclick="openTab(event, 'child', 'sem5', 'tablink2')">Semester 1</button>
-      <button class="item button tablink2" onclick="openTab(event, 'child', 'sem6', 'tablink2')">Semester 2</button>
+      <button class="button selected" onclick="openTab(event, 'child', 'sem5')">Semester 1</button>
+      <button class="button" onclick="openTab(event, 'child', 'sem6')">Semester 2</button>
     </div>
-    <div id="sem5" class="tab-container  child" style="display:none">
+    <div id="sem5" class="tab-container child">
     {% for course in site.data.modules.Sem5 %}
         <details>
         <summary>
@@ -175,18 +175,18 @@ full-width: True
 </div>
 
 <script>
-  function openTab(evt, tabBarName, cityName, tablinkName) {
+  function openTab(evt, tabBarName, cityName) {
     var i, x, tablinks;
     x = document.getElementsByClassName(tabBarName);
     for (i = 0; i < x.length; i++) {
       x[i].style.display = "none";
     }
-    tablinks = document.getElementsByClassName(tablinkName);
-    for (i = 0; i < x.length; i++) {
-      tablinks[i].className = tablinks[i].className.replace(" selected", "");
+    tablinks = evt.currentTarget.parentNode.getElementsByClassName("button");
+    for (i = 0; i < tablinks.length; i++) {
+      tablinks[i].classList.remove("selected");
     }
     document.getElementById(cityName).style.display = "block";
-    evt.currentTarget.className += " selected";
+    evt.currentTarget.classList.add("selected");
   }
 </script>
 
@@ -198,11 +198,7 @@ full-width: True
   text-align: center;
 }
 
-.selected {
-  background-color: #fff;
-}
-
-.item {
+.button {
   background-color: #f1f1f1;
   border: none;
   padding: 10px 20px;
@@ -211,13 +207,13 @@ full-width: True
 }
 
 .bar {
-    display: inline-block;
-    margin-bottom: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
 }
 
 .child {
-    text-align: left;
-    border: 1px solid #ccc;
-    padding: 20px
+  text-align: left;
+  border: 1px solid #ccc;
+  padding: 20px;
 }
-</style> 
+</style>

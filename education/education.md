@@ -10,12 +10,10 @@ permalink: /education/
         <img src="/assets/img/nus-logo-svg-vector.svg" alt="Undergraduate" width="300" height="300">
         <span class="button-text">Undergraduate</span>
     </a>
-
     <a href="/education/masters" class="square-button">
         <img src="/assets/img/nus-logo-svg-vector.svg" alt="Master" width="300" height="300">
         <span class="button-text">Masters</span>
     </a>
-
     <a href="/education/phd" class="square-button">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Question_Mark.svg" alt="Master" width="300" height="300">
         <span class="button-text">PhD</span>

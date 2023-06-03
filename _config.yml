@@ -44,6 +44,10 @@ social-network-links:
   ORCID: 0009-0006-1100-6477
   google-scholar: citations?hl=en&user=iBsWaBwAAAAJ
 
+collections:
+  papers:
+    output: true
+    permalink: /:collection/:name
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -101,7 +105,7 @@ footer-hover-col: "#0085A1"
 #################################
 
 # Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
-gtag: "G-Z84S1H8VP9"
+gtag: "G-KXY6V0NYRY"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
@@ -190,8 +194,8 @@ gtag: "G-Z84S1H8VP9"
 # timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+# permalink: /:year-:month-:day-:title/
+# paginate: 5
 
 kramdown:
   input: GFM

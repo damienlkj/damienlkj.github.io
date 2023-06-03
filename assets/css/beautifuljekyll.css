@@ -28,7 +28,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 600;
   line-height: 1.1;
 }
 h1 {
@@ -676,7 +676,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 3.125rem;
+  font-size: 2.75rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -729,7 +729,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3.5rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;

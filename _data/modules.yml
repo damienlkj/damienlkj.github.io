@@ -423,7 +423,7 @@ Sem6:
             for further study. A poster presentation is also required. This module is
             targeted at all level 4 chemical engineering students.
         title: B.Eng. Dissertation
-        grade: A
+        grade: A-
     CN4123R:
         credit: '6'
         description: In this capstone design project, students execute a group project
@@ -436,7 +436,7 @@ Sem6:
             due consideration to cost and safety. Project coordinators act as facilitators,
             and students work almost independently on the project and exercise their creativity.
         title: Final Year Design Project
-        grade: A
+        grade: A-
     MLE4207:
         credit: '4'
         description: The module presents an overview of CMOS fabrication process with
@@ -456,7 +456,7 @@ Sem6:
             Carlo studied. 4. Hands-on application of computational techniques to chemical
             and materials science problems.'
         title: Atomistic Modelling of Molecules and Materials
-        grade: A
+        grade: A+
 Sem5:    
     CN4205R:
         credit: '4'

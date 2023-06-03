@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="column column-1">
+        <div class="header">
+            <h1>{{ page.title }}</h1>
+        </div>
+        <p>{{ page.content }}</p>
+    </div>
+    <div class="column column-2">
+        <img src="{{ page.image }}" alt="Image">
+        <hr>
+        DOI:
+        <br/>
+        <a href='https://doi.org/{{ page.doi }}'>{{ page.doi }}</a>
+    </div>
+</div>
+
+<style> 
+    .container {
+        display: flex;
+    }
+
+    .column {
+        flex: 0 0 auto;
+    }
+    
+    .column-1 {
+        flex-basis: 75%;
+        max-width: 75%;
+        margin-right: 20px;
+    }
+    
+    .column-2 {
+        flex-basis: 20%;
+        max-width: 20%;
+        margin-left: 20px;
+    }
+</style>
