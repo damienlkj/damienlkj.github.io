@@ -130,7 +130,7 @@ full-width: True
             <summary>
             <b>IWC207: Statistics</b>
             <p><i>Done in Korea University (Winter School)</i></p>
-            <p><b>Grade: CS</b> &emsp; Credits: 4 </p>
+            <p><b>Grade: A+</b> &emsp; Credits: 4 </p>
             </summary>
             <p>This course provides a broad introduction to statistical practice and data analysis techniques. It aims to equip students with a basic understanding of statistics, so that they can employ appropriate methods of analysis in various circumstances. The techniques learnt are widely used in the sciences, social sciences, business and many other fields of study. Topics covered include collecting data, getting information from data, data manipulation, statistical inference, regression and analysis of categorical data.</p>
         </details>

@@ -1,8 +1,8 @@
 ---
 layout: paper
-title: NVPF
+title: Unlocking the Inaccessible Energy Density of Sodium Vanadium Fluorophosphate Electrode Materials by Transition Metal Mixing
 image: "/assets/img/avatar-icon.png"
-doi: 10.2139/ssrn.4453070
+doi: 
 year: 2023
 ---
 
