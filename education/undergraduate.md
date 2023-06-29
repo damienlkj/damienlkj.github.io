@@ -175,17 +175,19 @@ full-width: True
 </div>
 
 <script>
-  function openTab(evt, tabBarName, cityName) {
+  function openTab(evt, tabBarName, childName) {
     var i, x, tablinks;
     x = document.getElementsByClassName(tabBarName);
     for (i = 0; i < x.length; i++) {
+      console.log(x[i])
       x[i].style.display = "none";
     }
     tablinks = evt.currentTarget.parentNode.getElementsByClassName("button");
     for (i = 0; i < tablinks.length; i++) {
+      console.log(tablinks[i])
       tablinks[i].classList.remove("selected");
     }
-    document.getElementById(cityName).style.display = "block";
+    document.getElementById(childName).style.display = "block";
     evt.currentTarget.classList.add("selected");
   }
 </script>

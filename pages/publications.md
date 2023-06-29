@@ -32,7 +32,7 @@ full-width: true
     align-items: center;
     padding: 10px;
   }
-
+  
   .list-item img {
     width: 150px; /* Adjust the width as per your requirement */
     height: auto; /* Maintain aspect ratio */
