@@ -30,7 +30,7 @@ full-width: true
   .list-item {
     display: flex;
     align-items: center;
-    padding: 10px;
+    padding: 0px;
   }
   
   .list-item img {
