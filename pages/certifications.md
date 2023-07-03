@@ -5,7 +5,7 @@ permalink: /certifications/
 
 ## Scholarships
 
-* [Engineering Scholars Programme](https://cde.nus.edu.sg/escholars/)
+* [Engineering Scholars Programme](https://credentials.nus.edu.sg/56adc6f9-2e74-4989-83c8-a91ca9f6afd2#gs.2ob8oj)
 
 ## Academic awards
 
