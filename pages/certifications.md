@@ -10,7 +10,7 @@ permalink: /certifications/
 ## Academic awards
 
 * [CDE Annual Prize Donated by EXXONMOBIL ASIA PACIFIC PTE LTD (Best Student in Pinch Analysis and Process Integration)](https://credentials.nus.edu.sg/c53de4d0-10c1-4a98-8a61-3b4c64a3fb69#gs.14mlvk)
-* CDE Innovation & Research Award 2023
+* [CDE Innovation & Research Award 2023](https://credentials.nus.edu.sg/dba6c587-72f9-45b8-abc6-60bd4e4d4da4#gs.2oexm8)
 * [AY2021/2022 Semester 2 Dean's List](https://credentials.nus.edu.sg/74c0c2f0-0cb4-4b3f-8268-65eb583b9908)
 * [AY2021/2022 Semester 1 Dean's List](https://credentials.nus.edu.sg/a6e97a0a-c6cd-492b-a1aa-9a1a624887be)
 
