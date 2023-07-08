@@ -5,7 +5,7 @@ permalink: /publications/
 full-width: true
 ---
 
-{% assign sorted_papers = site.papers | sort:"year" | reverse %}
+{% assign sorted_papers = site.papers | sort:"number" | reverse %}
 
 <ol type="1">
   {% assign counter = sorted_papers.size %}

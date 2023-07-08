@@ -4,6 +4,7 @@ title: Predicting And Managing the Storage of Cryogenic Fluids Via A Dashboard
 image: "/assets/papers/cryotank.png"
 doi: 10.2139/ssrn.4453070
 year: 2023
+number: 2
 ---
 
 Aruna Coimbatore Meenakshi Sundaram, Kong Jun Yin, **Damien Khai Jie Lee**, Ifthekar Karimi; *SSRN*

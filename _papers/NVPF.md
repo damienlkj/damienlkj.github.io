@@ -4,6 +4,7 @@ title: Unlocking the Inaccessible Energy Density of Sodium Vanadium Fluorophosph
 image: "https://pubs.acs.org/cms/10.1021/acs.chemmater.3c00745/asset/images/medium/cm3c00745_0010.gif"
 doi: 10.1021/acs.chemmater.3c00745
 year: 2023
+number: 1
 ---
 Stephanie C. C. van der Lubbe, Ziliang Wang, **Damien K. J. Lee**, and Pieremanuele Canepa; *Chemistry of Materials*
 

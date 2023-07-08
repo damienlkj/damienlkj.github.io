@@ -8,7 +8,7 @@ I have completed my undergraduate studies in the National University of Singapor
 
 I am immensely grateful to numerous professors, mentors and peers for guiding me in various ways throughout the course of this journey. I am also grateful to be part of the [Engineering Scholars Programme](https://cde.nus.edu.sg/escholars/) for granting me the scholarship and pushing me to complete my undergraduate degree in 3 years instead of the usual 4 years.  
 
-As I embark on the next chapter of pursuing my Masters, I hope the next year will continue to be fulfilling and intellectually stimulating. I am excited to embrace new challenges, enhance my knowledge, and continue pushing myself to new heights.  
+As I embark on the next chapter of pursuing my Masters, I hope the next year will continue to be fulfilling and intellectually stimulating. I am excited to embrace new challenges, continue to enhance my knowledge and grow as a person.  
 
 ![E-Scolars Graduation](/assets/img/grad.jpg)
 *E-Scholars Graduation Dinner*

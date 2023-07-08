@@ -40,14 +40,15 @@ author: Damien Lee Khai Jie
 social-network-links:
   email: "damien.lee@u.nus.edu"
   github: damienleee
-  linkedin: damien-lee-khai-jie-9050b01bb
+  linkedin: damien-lee-khai-jie
   ORCID: 0009-0006-1100-6477
   google-scholar: citations?hl=en&user=iBsWaBwAAAAJ
 
 collections:
   papers:
     output: true
-    permalink: /:collection/:name
+    sort_by: number
+    permalink: /:collection/:title
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
