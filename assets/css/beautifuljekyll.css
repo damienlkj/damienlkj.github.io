@@ -2,7 +2,7 @@
 layout: null
 ---
 
-@import "{{ site.theme }}";
+/* @import "{{ site.theme }}"; */
 @import url("pygment_highlights.css");
 
 /* --- General --- */

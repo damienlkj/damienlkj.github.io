@@ -30,7 +30,7 @@ full-width: true
   .list-item {
     display: flex;
     align-items: center;
-    padding: 0px;
+    padding: 5px;
   }
   
   .list-item img {
@@ -43,4 +43,5 @@ full-width: true
     color: black; /* Set the desired color for the hyperlink */
     text-decoration: none; /* Remove the underline */
   }
+  
 </style>

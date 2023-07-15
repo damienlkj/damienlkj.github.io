@@ -59,7 +59,19 @@ permalink: /education/
 
 .responsive {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+}
+
+@media (max-width: 767px) {
+  .gallery {
+    grid-template-columns: 1fr; /* Change to one column on smaller screens */
+  }
+
+  .square-button {
+    width: 100%; /* Set button width to full width on smaller screens */
+    margin-bottom: 10px; /* Add some vertical spacing between buttons */
+  }
 }
 </style>

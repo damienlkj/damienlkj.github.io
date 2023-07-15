@@ -19,6 +19,7 @@ permalink: /certifications/
     * [Getting started with TensorFlow 2](https://coursera.org/share/e1736ad939c79675210275a3a5049222)
     * [Customising your models with TensorFlow 2](https://coursera.org/share/fc64bda58742cd1ae10f8053f8662fd1)
     * [Probabilistic Deep Learning with TensorFlow 2](https://coursera.org/share/2b2d4268c0e7a62021f47f426116e3f9)
+* [Machine Learning](https://coursera.org/share/f5bee43be576dddb6d469d427a4dbaa0)
 * [PV2x: Solar Energy: Photovoltaic (PV) Technologies](https://courses.edx.org/certificates/49b58a1d11fd41a8a8e2b7e244658cc6)
 * [PV1x: Solar Energy: Photovoltaic (PV) Energy Conversion](https://courses.edx.org/certificates/8ec3c2b8e37a41aea3c3240abd798e1e)
 * [Introduction to Programming with MATLAB](https://coursera.org/share/451c090cfff7907ea58cdc85a48d44de)
