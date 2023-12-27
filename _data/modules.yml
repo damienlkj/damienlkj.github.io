@@ -569,3 +569,29 @@ year2st:
         title: Machine Learning
         grade: A-
 
+Sem7:
+    MLE5101:
+        credit: '4'
+        description: The course introduces the students advanced thermodynamic concepts of sustainable development especially those related to various energy technologies.
+        title: Thermodynamics for Sustainability
+        grade: A+
+    MLE5104:
+        credit: '4'
+        description: Physical properties of metals, ceramics, polymers and their hybrids are covered. These include overview of electrical conductivity, thermal conductivity, magnetic properties, ferroelectricity, piezoelectricity, and optical properties of different classes of materials. The correlations of length-scale, structure, microstructures, and interfaces of materials with their properties are emphasized.
+        title: Physical Properties of Materials
+        grade: A+
+    MLE5212:
+        credit: '4'
+        description: The course provides a foundation for students interested in doing research into materials related to energy storage and conversion. It will start by introducing the basics of designing and processing materials for energy storage and conversion, their integration into batteries, supercapacitors, and fuel cells as well as methods for the performance characterisation and optimisation of these devices. The course will finish with aspects of current research on materials for energy storage and conversion.
+        title: Energy Conversion & Storage
+        grade: A+
+    MLE5220:
+        credit: '4'
+        description: Strong and weak forms and the finite element formulation of one-dimensional mass diffusion problem in the steady and the transient states. Strong and weak forms and the finite element formulation of one-dimensional elastic deformation in materials. Formulating and solving twodimensional mass diffusion problems by finite elements software. Formulating and solving two-dimensional elastic deformation by finite elements software. Formulating and solving two-dimensional problems of coupled mass diffusion and elastic deformation by finite element software.
+        title: Computation of Macroscopic Materials Behaviours
+        grade: A
+    MLE6103:
+        credit: '4'
+        description: 'Periodic trends in atomic properties, bonding generalization based on periodic trends, generalization about crystal structures based on periodicity. Structural concepts: crystal lattice, reciprocal lattice, diffraction, crystal structures, lattice dynamics, and energy band structure. Examples of effects of structure on physical and chemical properties are discussed.'
+        title: Structures of Materials
+        grade: A+

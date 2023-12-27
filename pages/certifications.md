@@ -15,6 +15,8 @@ permalink: /certifications/
 * [AY2021/2022 Semester 1 Dean's List](https://credentials.nus.edu.sg/a6e97a0a-c6cd-492b-a1aa-9a1a624887be)
 
 ## Certifications
+* [Statistical Thermodynamics Specialization](https://coursera.org/share/d3c1bb08a5ff1eb34388989dcbdf209a)
+* [Statistical Molecular Thermodynamics](https://coursera.org/share/661b45feed4a4c7c788a88dfd8e9a3d2)
 * [TensorFlow 2 for Deep Learning](https://coursera.org/share/ef2f2a9ab97c77cd267df402aa781c7b)
     * [Getting started with TensorFlow 2](https://coursera.org/share/e1736ad939c79675210275a3a5049222)
     * [Customising your models with TensorFlow 2](https://coursera.org/share/fc64bda58742cd1ae10f8053f8662fd1)
