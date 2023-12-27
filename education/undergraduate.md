@@ -25,12 +25,12 @@ full-width: True
   </div>
 
   <div id="Year 1" class="child-container">
-    <div class="childbar">
+    <div class="childbar active">
       <button class="child_tab selected" onclick="openChildTab(event, 'sem1')">Semester 1</button>
       <button class="child_tab" onclick="openChildTab(event, 'sem2')">Semester 2</button>
       <button class="child_tab" onclick="openChildTab(event, 'st1')">Special Term / Others</button>
     </div>
-    <div id="sem1" class="tabcontent">
+    <div id="sem1" class="tabcontent active">
         {% for course in site.data.modules.Sem1 %}
             <details>
             <summary>
@@ -191,6 +191,9 @@ full-width: True
     }
     to_show = document.getElementById(year)
     to_show.style.display = "block"
+    childbar = to_show.firstElementChild
+    childbar.style.display = "block";
+    childbar.firstElementChild.click()
     evt.currentTarget.className += " selected";
   }
 
@@ -232,9 +235,14 @@ full-width: True
   }
 
 .tabcontent {
+  display: none;
   text-align: left;
   border: 1px solid #ccc;
   padding: 20px;
+}
+
+.childbar {
+  display: none;
 }
 
 .bar {
@@ -252,6 +260,10 @@ button {
 .selected {
   background-color: #474747;
   color: #f1f1f1;
+}
+
+.active {
+  display: block;
 }
 
 .bar {

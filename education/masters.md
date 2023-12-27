@@ -16,10 +16,10 @@ full-width: True
 
 <div class="tab-container">
     <div class="bar">
-        <button class="tablinks active" onclick="openTab(event, 'sem_1')">Semester 1</button>
+        <button class="tablinks selected" onclick="openTab(event, 'sem_1')">Semester 1</button>
         <button class="tablinks" onclick="openTab(event, 'sem_2')">Semester 2</button>
     </div>
-    <div id="sem_1" class="tabcontent">
+    <div id="sem_1" class="tabcontent active">
         {% for course in site.data.modules.Sem7 %}
             <details>
             <summary>
@@ -37,21 +37,19 @@ full-width: True
 
 <script>
   function openTab(evt, sem) {
-    // Declare all variables
     var i, tabcontent, tablinks;
-    // Get all elements with class="tabcontent" and hide them
     tabcontent = document.getElementsByClassName("tabcontent");
     for (i = 0; i < tabcontent.length; i++) {
         tabcontent[i].style.display = "none";
+        tabcontent[i].className = tabcontent[i].className.replace(" active", "");
     }
-    // Get all elements with class="tablinks" and remove the class "active"
     tablinks = document.getElementsByClassName("tablinks");
     for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].className = tablinks[i].className.replace(" active", "");
+        tablinks[i].className = tablinks[i].className.replace(" selected", "");
     }
-    // Show the current tab, and add an "active" class to the button that opened the tab
     document.getElementById(sem).style.display = "block";
-    evt.currentTarget.className += " active";
+    document.getElementById(sem).className += " active";
+    evt.currentTarget.className += " selected";
     }
 </script>
 
@@ -84,19 +82,25 @@ full-width: True
     transition: background-color 0.3s;
     }
 
-    .active {
+    .tabcontent {
+    display: none;
+    text-align: left;
+    border: 1px solid #ccc;
+    padding: 20px;
+    }
+
+    .selected {
         background-color: #474747;
         color: #f1f1f1;
+    }
+
+    .active {
+        display: block;
     }
 
     .bar {
     display: inline-block;
     margin-bottom: 10px;
     }
-
-    .tabcontent {
-    text-align: left;
-    border: 1px solid #ccc;
-    padding: 20px;
-    }
+   
 </style>
