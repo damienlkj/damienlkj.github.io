@@ -9,7 +9,7 @@ full-width: true
 
 <ol type="1">
   {% assign counter = sorted_papers.size %}
-  {% assign year = 2024 %}
+  {% assign year = 2025 %}
 
   {% for page in sorted_papers %}
     {% if page.year != year %}
