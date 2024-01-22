@@ -15,6 +15,12 @@ permalink: /certifications/
 * [AY2021/2022 Semester 1 Dean's List](https://credentials.nus.edu.sg/a6e97a0a-c6cd-492b-a1aa-9a1a624887be)
 
 ## Certifications
+* [Web Design for Everybody: Basics of Web Development & Coding](https://coursera.org/share/0f6113e12392a6fee96d096bb03f92dc)
+    * [Introduction to HTML5](https://coursera.org/share/b29edef5209e515aa6b349d77fbaa282)
+    * [Introduction to CSS3](https://coursera.org/share/2647cceaf922bbf697e3cd7de5b0a8f8)
+    * [Interactivity with JavaScript](https://coursera.org/share/ad4813295a7d0b793b2bac94fc4faabd)
+    * [Advanced Styling with Responsive Design](https://coursera.org/share/16337181f036ea255b596c192c44a2df)
+    * [Web Design for Everybody Capstone](https://coursera.org/share/5ee17293bdf083980b90fc053d6e6e27)
 * [Statistical Thermodynamics Specialization](https://coursera.org/share/d3c1bb08a5ff1eb34388989dcbdf209a)
 * [Statistical Molecular Thermodynamics](https://coursera.org/share/661b45feed4a4c7c788a88dfd8e9a3d2)
 * [TensorFlow 2 for Deep Learning](https://coursera.org/share/ef2f2a9ab97c77cd267df402aa781c7b)
