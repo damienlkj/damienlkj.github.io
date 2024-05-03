@@ -31,7 +31,15 @@ full-width: True
         {% endfor %}
     </div>
     <div id="sem_2" class="tabcontent">
-        <p>In progress...</p>
+        {% for course in site.data.modules.Sem8 %}
+            <details>
+            <summary>
+                <b>{{ course[0] }}: {{ course[1].title }}</b>
+                <p><b>Grade: {{ course[1].grade }}</b> &emsp; Credits: {{ course[1].credit }}</p>
+            </summary>
+            <p>{{ course[1].description }}</p>
+            </details>
+        {% endfor %}
     </div>
 </div>
 
