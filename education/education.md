@@ -15,7 +15,7 @@ permalink: /education/
         <span class="button-text">Masters</span>
     </a>
     <a href="/education/phd" class="square-button">
-        <img src="/assets/img/epfl.png" alt="PhD" width="300" height="300">
+        <img src="/assets/img/epfl.png" alt="PhD" width="300">
         <span class="button-text">PhD</span>
     </a>
 
