@@ -9,8 +9,8 @@ full-width: True
 <h2 style="text-align: center;"> Master of Science (Materials Science and Engineering)</h2>
 <div class="container">
   <div class=item><b>GPA:</b> 5.00/5.00 </div>
-  <div class=item><b>Grade Breakdown:</b> 4A+/1A </div>
-  <div class=item><b>Total credits:</b> 20/40 </div>
+  <div class=item><b>Grade Breakdown:</b> 9A+/1A </div>
+  <div class=item><b>Total credits:</b> 40/40 </div>
 </div>
 <p style="text-align: center;"><b>Courses taken</b></p>
 

@@ -601,24 +601,24 @@ Sem8:
         credit: '4'
         description: The course introduces the students to advanced rational materials design concepts and their application in the Sustainable materials design. Application examples will demonstrate how the application of these concepts leads to a resource-efficient low-carbon design of materials, processes and devices for energy storage and conversion, water management and urban housing.
         title: Rational Materials Design for Sustainability
-        grade: 
+        grade: A+
     MLE5225:
         credit: '4'
         description: The course introduces the students to the foundational aspects of electrochemistry and the use of electro-active materials in different electrochemical systems. This intensive course will cover a broad range fundamentals and applications of electro-active materials. This course will also present the development of electro-active materials enabling technologies for sustainability.
         title: Electro-Active Materials for Sustainability
-        grade: 
+        grade: A+
     MLE5222:
         credit: '4'
         description: "This course will cover selected key nanomaterials for green energy harvesting, energy storage, conversion and catalysis, including their design, nanomaterials fabrication, energy performance, and applications. They include: introduction to energy nanomaterials; design principles; selected key energy nanomaterials in different dimensions (0D, 1D, 2D and 3D); processing and synthesis, and relationships among key variables at both nanomaterials and energy device levels."
         title: Nano and 2D materials for Energy applications
-        grade: 
+        grade: A+
     MLE5002:
         credit: '4'
         description: MLE5002 is a core course that teaches modern techniques and methods for the structural and spectroscopic characterisation of materials. Besides X-ray-, electron-, and vibrational spectroscopy, the course focuses on different types of microscopy, electron microscopy in particular. The concepts are treated from a mechanistic point of view; letting the students gain deeper insight into the ideas behind the techniques, without the need to perform advanced calculations. This course is designed to help students select the most relevant microscopy or spectroscopy methods, and let them interact knowledgeably with equipment experts to optimize their own future materials characterisation experiments.
         title: Materials Characterization
-        grade: 
+        grade: A+
     MLE5236:
         credit: '4'
         description: Students will explore the electronic properties of novel quantum materials. We will start from the classification of materials based on their dimensionality, electronic band structure and topology. Then we will explore mechanisms of electron conduction in novel material systems. Students will deal with real experimental data to analyse the electrical response of low-dimensional electron systems, topological insulators, superconductors and more as well as extract their properties as a function of external parameters. Next, we will discuss how to fabricate devices out of the novel material systems as well as how to perform measurements to characterise their electronic properties.
         title: Electron Transport in Novel Quantum Materials
-        grade: 
+        grade: A+
